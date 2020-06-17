@@ -5,3 +5,5 @@ authors = ["personinblack <berkay@tuta.io>"]
 edition = "2018"
 
 [dependencies]
+tui = "0.9"
+termion = "1.5"
