@@ -1,5 +1,5 @@
 [package]
-name = "TypeR"
+name = "type_r"
 version = "0.1.0"
 authors = ["personinblack <berkay@tuta.io>"]
 edition = "2018"
